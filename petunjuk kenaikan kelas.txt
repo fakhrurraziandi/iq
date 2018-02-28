@@ -1,0 +1,12 @@
+untuk naik kelas :
+siswa.tingkat_id di up 1
+siswa.tahunajaran_id di up 1
+siswa.kelas_id = null
+penempatansiswa.status_kenaikankelas = 1
+
+
+untuk tinggal kelas :
+siswa.tingkat_id di biarkan tetap sama
+siswa.tahunajaran_id di up 1
+siswa.kelas_id = null
+penempatansiswa.status_kenaikankelas = 0

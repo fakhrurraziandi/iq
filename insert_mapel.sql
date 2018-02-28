@@ -1,0 +1,22 @@
+TRUNCATE TABLE mapel;
+
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Pendidikan Agama', 3, 20, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Qur\'an Hadist', 3, 20, 1, 2, 0, 59, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Aqidah Akhlak', 3, 11, 1, 2, 0, 59, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Fiqh', 3, 70, 1, 2, 0, 59, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Sejarah Kebudayaan Islam', 3, 75, 1, 2, 0, 59, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Pend. Pancasila dan Kewarganegaraan', 3, 1, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Bahasa Indonesia', 3, 77, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Bahasa Arab', 3, 17, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Matematika', 3, 58, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Sejarah Indonesia', 3, 5, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Bahasa Inggris', 3, 7, 1, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Seni Budaya', 3, 21, 2, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Pend. Jasmani, Olah Raga, dan Kesehatan', 3, 73, 2, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Prakarya', 3, 74, 2, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Matematika (Peminatan)', 3, 1, 3, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Biologi', 3, 71, 3, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Fisika', 3, 37, 3, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Kimia', 3, 16, 3, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Ushul Fiqh', 3, 19, 4, 2, 1, NULL, 0.00);
+INSERT INTO `iq`.`mapel`(`mapel`, `kelas_id`, `guru_id`, `kelompokmapel_id`, `semester_id`, `parent`, `parent_id`, `kkm`) VALUES ('Ulumul Hadist', 3, 11, 4, 2, 1, NULL, 0.00);

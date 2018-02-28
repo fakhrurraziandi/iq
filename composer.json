@@ -1,0 +1,12 @@
+{
+    "name": "fakhrurraziandi/iq",
+    "authors": [
+        {
+            "name": "Fakhrurrazi Andi",
+            "email": "fakhrurrazi.andi@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpoffice/phpword": "dev-develop"
+    }
+}
